@@ -1,10 +1,10 @@
 var dress = "little dress";
-function myDress (){
-    var dress = "ball gown";
-    return dress;
+
+function myDress(){
+var dress = "ball gown";
+return dress;
 }
-console.log (myDress());
 
+console.log(myDress());
+myDress();
 module.exports = myDress;
-
-// tacno 
